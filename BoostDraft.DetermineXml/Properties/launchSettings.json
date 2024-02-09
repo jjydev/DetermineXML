@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Projects\\BoostDraft.DetermineXml\\BoostDraft.DetermineXml\\bin\\Debug\\net6.0\\BoostDraft.XmlUtils.exe"
+    }
+  }
+}
